@@ -3,8 +3,6 @@
 
 # # PRODIGY INFOTECH
 
-# # Aastha Singla
-
 # ## TASK : Create a bar chart or histogram to visualise the distribution of ages or gender in a population.
 
 # In[13]:
